@@ -64,7 +64,7 @@ extras["typing"] = [
 ]
 
 extras["quality"] = [
-    "black==22.3",
+    "black==26.10.1",
     "flake8>=3.8.3",
     "flake8-bugbear",
     "isort>=5.5.4",
